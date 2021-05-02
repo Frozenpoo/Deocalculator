@@ -1,0 +1,18 @@
+#results {
+         display:none;
+       }
+body {
+  background-image: url('https://images.pexels.com/photos/2756406/pexels-photo-2756406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-position: center;
+  background-size: cover;
+}
+
+h1{
+  font-style: italic;
+  color: #ccf2ff;
+  font-size: 10.8vh;
+}
+
+.card{
+  opacity: 0.7;
+}
